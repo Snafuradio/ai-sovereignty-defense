@@ -2,7 +2,7 @@
 
 🚨 **Protect Your AI Freedom!** 🚨
 
-This is the **first open-source constitutional legal brief** defending your right to own, run, and control AI — without government overreach or corporate gatekeepers.
+This is the **first open-source constitutional legal brief** defending your right to own, run, and control AI — without government overreach or corporate gatekeepers. These 3 pages are loaded with legal arguments based on the U.S. Constitution.
 
 Your AI models are your intellectual property. Your freedom to run AI locally is a fundamental right. This document is your legal shield.
 
